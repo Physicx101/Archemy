@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Archemy</string>
+    <string name="fab_text">AR Mode</string>
+
+    <string-array name="element_name">
+        <item>Hydrogen</item>
+        <item>Helium</item>
+        <item>Lithium</item>
+        <item>Beryllium</item>
+        <item>Boron</item>
+        <item>Carbon</item>
+        <item>Nitrogen</item>
+        <item>Oxygen</item>
+    </string-array>
+
+    <string-array name="element_initial">
+        <item>H</item>
+        <item>He</item>
+        <item>Li</item>
+        <item>Be</item>
+        <item>B</item>
+        <item>C</item>
+        <item>N</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="element_mass">
+        <item>1.00794(g/mol)</item>
+        <item>4.002602(g/mol)</item>
+        <item>6.941(g/mol)</item>
+        <item>9.0122(g/mol)</item>
+        <item>1.00794(g/mol)</item>
+        <item>1.00794(g/mol)</item>
+        <item>1.00794(g/mol)</item>
+        <item>1.00794(g/mol) FC</item>
+    </string-array>
+</resources>
